@@ -1,18 +1,17 @@
-# 💫 Hi 👋, I'm Imran Alam
-**A passionate Cloud Engineer || DevOps Engineer || Kafka Admin from India**
+# 💫 Hi 👋, I'm Waleed Khokhar
+**A dedicated Full-Stack MERN Developer from Pakistan | Crafting modern & scalable web applications**
 
-Email Me 👉 ✉️ **alamimran613@live.com** For Collaboration/Project or Anything Else. 😊😊
+Email Me 👉 ✉️ **waleedkhokharbusiness@gmail.com** For Collaboration/Project or Anything Else. 😊
 
-- 🔭 **I’m currently working on:** Enter your project info here
-- 🌱 **I’m currently learning:** Enter your tech here
-- 👯 **I’m looking to collaborate on:** Enter your project name and info
-- 🤔 **I’m looking for help with:** Your project here
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on: My creative portfolio & multiple MERN projects
+- 🌱 **I’m currently learning: Advanced AI integrations & DevOps practices
+- 👯 **I’m looking to collaborate on: Freelance web apps, MERN projects, and innovative web solutions
+- 🤔 **I’m looking for help with: Scaling web applications and best deployment practices
+- 💬 **Ask me about:** Full-Stack Development, React, Node.js, MongoDB, TailwindCSS
+- 📫 **How to reach me:** waleedkhokharbusiness@gmail.com
+- ⚡ **Fun fact:** I love building real-world projects that solve problems
 
-## 🔗 I am a Content Creator. 😊😊
+## 🔗 I am a Full-Stack MERN Developer & Problem Solver 💻
 
 Stay updated with the latest tutorials and projects by subscribing to my YouTube channel and following on Instagram, Facebook and Twitter.
 
