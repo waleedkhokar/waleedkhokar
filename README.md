@@ -62,30 +62,24 @@ I'm a **Full-Stack Web Developer** focused on building secure, scalable, and hig
 <tr>
 <td align="center" width="50%">
 
-**🌐 Frontend**
+### 🌐 Frontend
 
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,figma&perline=6)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,figma&perline=6" />
 
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=2&width=300" />
+
+`React.js` `Next.js` `TypeScript` `Tailwind` `Redux` `Figma`
 
 </td>
 <td align="center" width="50%">
 
-**⚙️ Backend & Databases**
+### ⚙️ Backend & Databases
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,js&perline=6)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,js&perline=6" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=339933&height=2&width=300" />
+
+`Node.js` `Express.js` `MongoDB` `MySQL` `Redis` `JavaScript`
 
 </td>
 </tr>
@@ -93,74 +87,24 @@ I'm a **Full-Stack Web Developer** focused on building secure, scalable, and hig
 <tr>
 <td align="center" width="50%">
 
-**☁️ DevOps & Cloud**
+### ☁️ DevOps & Cloud
 
-[![DevOps](https://skillicons.dev/icons?i=docker,aws,vercel,git,github,gitlab&perline=6)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,gitlab&perline=6" />
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat&logo=gitlab&logoColor=white)
-<td align="center" width="50%">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=2496ED&height=2&width=300" />
 
-**📊 Data & Analytics**
-
-[![Data](https://skillicons.dev/icons?i=python,mysql,jupyter,tensorflow,pytorch&perline=5)](https://skillicons.dev)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-593D88?style=flat&logo=tensorflow&logoColor=white)
-
-
-
-
-
-</td>
-</tr>
-</table>
-
-</div>
-
-## 🛠️ Technical Stack
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="50%">
-
-**🌐 Frontend**
-
-[![Frontend](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,figma&perline=6)](https://skillicons.dev)
+`Docker` `AWS` `Vercel` `Git` `GitHub` `GitLab`
 
 </td>
 <td align="center" width="50%">
 
-**⚙️ Backend & Databases**
+### 📊 Data & Analytics
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,js&perline=6)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,sklearn,grafana,firebase&perline=6" />
 
-</td>
-</tr>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=2&width=300" />
 
-<tr>
-<td align="center" width="50%">
-
-**☁️ DevOps & Cloud**
-
-[![DevOps](https://skillicons.dev/icons?i=docker,aws,vercel,git,github,gitlab&perline=6)](https://skillicons.dev)
-
-</td>
-<td align="center" width="50%">
-
-**📊 Data & Analytics**
-
-[![Data](https://skillicons.dev/icons?i=python,mysql,jupyter,tensorflow,pytorch&perline=5)](https://skillicons.dev)
+`Python` `MySQL` `TensorFlow` `Scikit-Learn` `Grafana` `Firebase`
 
 </td>
 </tr>
