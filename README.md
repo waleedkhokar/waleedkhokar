@@ -1,5 +1,7 @@
+
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=55&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&height=120&lines=WALEED+KHOKHAR;Full-Stack+Developer;Data+Analytics+Expert;Full-Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=55&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&height=120&lines=WALEED+KHOKHAR;Full-Stack+Developer;Python+%2F+FastAPI+Developer;Data+Analytics+Expert" alt="Typing SVG" />
 </p>
 
 
@@ -20,38 +22,33 @@
 
 ### 👨‍💻 Waleed Khokhar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=500&color=6A5ACD&vCenter=true&width=435&lines=MERN+Stack+Developer;Data+Analytics+Expert;Building+Scalable+Web+Solutions;Turning+Data+Into+Insights" alt="Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=500&color=6A5ACD&vCenter=true&width=435&lines=MERN+Stack+Developer;Python+%2F+FastAPI+Developer;PostgreSQL+%26+MongoDB+Expert;Data+Analytics+Expert;Building+Scalable+Web+Solutions" alt="Typing" />
 
-I'm a **Full-Stack Web Developer** focused on building secure, scalable, and high-performance web applications with the MERN stack. I bridge design and development by crafting intuitive UI/UX, robust backends, and clean, maintainable code.
+I'm a **Full-Stack Web Developer** specializing in building secure, scalable, and high-performance web applications using the **MERN stack** and **Python/FastAPI**. I bridge design and development by crafting intuitive UI/UX, robust REST APIs, and clean, maintainable code across both JavaScript and Python ecosystems.
 
-📊 I also integrate **AI-powered** features and **data analytics** to build smarter, data-driven software solutions.
+📊 I also integrate **AI-powered** features and **data analytics** to build smarter, data-driven software solutions — from SQL/MongoDB schema design to React UI, end-to-end.
 
 
 ---
 
 ### 🎯 What I Do
 
-- Build production-ready scalable web applications
-- Design secure REST APIs & optimized databases 
-- Develop fast, scalable, and maintainable systems
-- Integrate AI into real-world software
-- Create responsive modern user-interfaces
+- Ship scalable full-stack apps — MERN, Python/FastAPI, PostgreSQL, Docker
+- Build secure REST APIs with JWT auth, Redis caching & role-based access
+- Optimize databases & slash query response times under real production load
+- Solve real-world business problems with clean, maintainable code
+- Integrate AI features into products users actually love
 
+> 🌱 **Currently Leveling Up:** Full-Stack (MERN + Python/FastAPI) · AI Integration · AWS · DSA in C++
 ---
 
-### 🌱 Currently Expanding
-
-- MERN Stack mastery | Advanced DSA & Algorithms
-- AI Integration (Chatbots + AI-powered features)
-- Cybersecurity & Networking (threat protection)
-- DevOps (CI/CD, Docker, Kubernetes, AWS)
-
----
 
 🚀 Problem-solver. Hard worker. Smarter every day. Lifelong learner.
 </td>
 </tr>
 </table>
+
+
 
 
 ## 🛠️ Technical Stack
@@ -68,18 +65,18 @@ I'm a **Full-Stack Web Developer** focused on building secure, scalable, and hig
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=2&width=300" />
 
-`React.js` `Next.js` `TypeScript` `Tailwind` `Redux` `Figma`
+`React.js` `Next.js` `TypeScript` `Tailwind CSS` `Redux` `ShadCN UI` `Framer Motion` `Figma`
 
 </td>
 <td align="center" width="50%">
 
 ### ⚙️ Backend & Databases
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,redis,js&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,js,fastapi,mongodb,postgresql,redis&perline=6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=339933&height=2&width=300" />
 
-`Node.js` `Express.js` `MongoDB` `MySQL` `Redis` `JavaScript`
+`Node.js` `Express.js` `JavaScript` `Python` `FastAPI` `MongoDB` `PostgreSQL` `MySQL` `Redis`
 
 </td>
 </tr>
@@ -89,22 +86,22 @@ I'm a **Full-Stack Web Developer** focused on building secure, scalable, and hig
 
 ### ☁️ DevOps & Cloud
 
-<img src="https://skillicons.dev/icons?i=docker,aws,vercel,git,github,gitlab&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,aws,cpp,git,github,gitlab&perline=6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2496ED&height=2&width=300" />
 
-`Docker` `AWS` `Vercel` `Git` `GitHub` `GitLab`
+`Docker` `AWS` `Git` `GitHub` `GitLab` `Postman` `Cursor AI` `C++ (DSA)`
 
 </td>
 <td align="center" width="50%">
 
 ### 📊 Data & Analytics
 
-<img src="https://skillicons.dev/icons?i=python,mysql,tensorflow,sklearn,grafana,firebase&perline=6" />
+<img src="https://skillicons.dev/icons?i=py,mysql,postgres,sklearn,tensorflow,pytorch&perline=6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=2&width=300" />
 
-`Python` `MySQL` `TensorFlow` `Scikit-Learn` `Grafana` `Firebase`
+`Python` `Pandas` `Matplotlib` `SQL` `Excel` `Power BI` `Tableau` `Dashboards`
 
 </td>
 </tr>
@@ -131,33 +128,28 @@ I'm a **Full-Stack Web Developer** focused on building secure, scalable, and hig
 <td width="100%" valign="top">
 
 ### 🎓 **BS Computer Science** — Mohi-ud-Din Islamic University *(2022 – 2026)*
-Turning 4 years of computer science fundamentals into secure, scalable, and high-performance full-stack software with AI-enhanced capabilities.
+Turning 4 years of computer science fundamentals into secure, scalable, and high-performance full-stack software — specializing in **MERN Stack + Python/FastAPI** and **Data Analytics & BI** — with AI-enhanced capabilities.
 
 ---
 
 ### 🚀 **Current Focus**
 
 - 🔥 Advanced MERN Stack — Next.js, TypeScript
-- 🧩 DSA & System Design — LeetCode grind
+- 🐍 Python / FastAPI — REST APIs & backend systems
+- 🧩 DSA C++ & System Design — LeetCode grind
 - 🤖 AI Integration — OpenAI API, LangChain
 - ☁️ DevOps — Docker, Kubernetes, AWS
-- 🔐 Cybersecurity & Networking
+- 🔐 Cybersecurity & Networking (threat protection)
 
 ---
 
 ### 🏆 **Achievements**
 
-| 🚀 10+ Projects | ⏱️ 1500+ Hours | 📜 MERN Certified | 🌍 1+ Year Experience |
+| 🚀 10+ Projects | ⏱️ 1500+ Hours | 📜 Certified Devolper | 🌍 2 Internships |
 |:--------------:|:-------------:|:-----------------:|:--------------------:|
 </td>
 </tr>
 </table>
-
-
-
-
-
-
 
 
 ## 📫 **Connect With Me**
@@ -177,17 +169,17 @@ Turning 4 years of computer science fundamentals into secure, scalable, and high
 </div>
 
 ### 📈 **Weekly Development Stats**
-
+f
 <div align="left">
 
 ```text
-🚀 JavaScript    ██████████████  36h  (60.0%)
-🐍 Python        ██████░░░░░░░░  8h  (13.3%
-📘 TypeScript    ████░░░░░░░░░░  5h  (8.3%)
-📊 Tableau       ██░░░░░░░░░░░░  2.5h (4.2%)
-🗃️ SQL           ██░░░░░░░░░░░░  2h  (3.3%)
-⚡ Other         ██████░░░░░░░░  6.5h (10.9%)
+🐍 Python      ██████████████  30h  (46.2%)
+🚀 JavaScript  ████████░░░░░░  14h  (21.5%)
+📘 TypeScript  █████░░░░░░░░░  9h   (13.8%)
+🗃️ SQL         ███░░░░░░░░░░░  6h   (9.2%)
+🧩 DSA         ██░░░░░░░░░░░░  4h   (6.2%)
+📊 Power BI    █░░░░░░░░░░░░░  2h   (3.1%)
 
-🔥 Total Coding Time: 60h 26m this week
-🎯 Main Focus: Full-Stack Software Development
+🔥 Total Coding Time: 65h this week
+🎯 Main Focus: Full-Stack Development (MERN + Python/FastAPI)
 ```
