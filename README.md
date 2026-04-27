@@ -1,53 +1,46 @@
-
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=55&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&height=120&lines=WALEED+KHOKHAR;Full-Stack+Developer;Python+%2F+FastAPI+Developer;Data+Analytics+Expert" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=55&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&height=120&lines=WALEED+KHOKHAR;Full-Stack+Developer;Python+%2F+FastAPI;Data+Analytics+Expert"
+        alt="Typing SVG" />
 </p>
 
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
 
 ## 🚀 About Me
 
 <div align="center">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF" />
+    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF" />
 </div>
 
 <table width="100%">
-<tr>
-<td width="100%" valign="top">
+    <tr>
+        <td width="100%" valign="top">
 
 ### 👨‍💻 Waleed Khokhar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=500&color=6A5ACD&vCenter=true&width=435&lines=MERN+Stack+Developer;Python+%2F+FastAPI+Developer;PostgreSQL+%26+MongoDB+Expert;Data+Analytics+Expert;Building+Scalable+Web+Solutions" alt="Typing" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=500&color=6A5ACD&vCenter=true&width=435&lines=MERN+Stack+Developer;Python+Developer;FastAPI+Developer;SQL+%26+MongoDB+Expert;Data+Analytics+Expert;Scalable+Web+Solutions"
+    alt="Typing" />
 
-I'm a **Full-Stack Web Developer** specializing in building secure, scalable, and high-performance web applications using the **MERN stack** and **Python/FastAPI**. I bridge design and development by crafting intuitive UI/UX, robust REST APIs, and clean, maintainable code across both JavaScript and Python ecosystems.
-
-📊 I also integrate **AI-powered** features and **data analytics** to build smarter, data-driven software solutions — from SQL/MongoDB schema design to React UI, end-to-end.
-
+Meet a **Full-Stack Web Developer** specializing in building secure, scalable, and high-performance web applications using **modern technologies** — **MERN stack (Next.js, TypeScript, React, Node.js)** and **Python/FastAPI**. I design and develop complete solutions using **SQL** and **NoSQL (MongoDB)** databases, focusing on **fast performance, clean architecture, and exceptional user experience**. I also containerize applications using **Docker** for scalable and efficient deployments.
 
 ---
 
 ### 🎯 What I Do
 
-- Ship scalable full-stack apps — MERN, Python/FastAPI, PostgreSQL, Docker
-- Build secure REST APIs with JWT auth, Redis caching & role-based access
-- Optimize databases & slash query response times under real production load
-- Solve real-world business problems with clean, maintainable code
-- Integrate AI features into products users actually love
+- Help **startups and brands** build modern, scalable, and high-performance web applications with the best user experience
+- Develop secure backends, REST APIs, and optimized databases using MERN, FastAPI, SQL & MongoDB
+- 📊 Integrate **AI-powered features and data analytics** using Python, SQL, Excel & Power BI to build smart dashboards
 
 > 🌱 **Currently Leveling Up:** Full-Stack (MERN + Python/FastAPI) · AI Integration · AWS · DSA in C++
+
 ---
 
+🚀 Problem-solver • Hard worker • Consistent builder • Lifelong learner
 
-🚀 Problem-solver. Hard worker. Smarter every day. Lifelong learner.
-</td>
-</tr>
+        
+
 </table>
-
 
 
 
