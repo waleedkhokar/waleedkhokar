@@ -118,28 +118,11 @@
     <tr>
         <td width="100%" valign="top">
 
-### 🎓 **Bachelor's in Computer Science (BSCS)** —  *(2022 – 2026)*  
-Turning strong computer science fundamentals into **secure, scalable, and high-performance full-stack applications** — specializing in **MERN (Next.js, TypeScript)**, **Python/FastAPI**, and **Data Analytics & BI**, with practical **AI integration**.
+### 🏆 Achievements
 
----
+| BSCS Graduate | 🚀 10+ Projects | ⏱️ 1500+ Hours | 📜 Certified Developer | 🌍 2 Internships |
+|:-------------:|:--------------:|:--------------:|:----------------------:|:----------------:|
 
-### 🚀 **Current Focus**
-
-- 🔥 Advanced MERN Stack — Next.js, TypeScript
-- 🐍 Python / FastAPI — REST APIs, backend systems  
-- 🧩 DSA in C++ & System Design — problem-solving   
-- 🤖 AI Integration — OpenAI APIs, LangChain 
-- ☁️ DevOps — Docker, AWS (deployment & scaling)
-
----
-
-### 🏆 **Achievements**
-
-| 🚀 10+ Projects | ⏱️ 1500+ Hours | 📜 Certified Developer | 🌍 2 Internships |
-|:--------------:|:-------------:|:--------------------:|:----------------:|
-
-        </td>
-    </tr>
 </table>
 
 
@@ -153,9 +136,9 @@ Turning strong computer science fundamentals into **secure, scalable, and high-p
 
 </div>
 
-<div align="left">
-  
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=waleedkhokar&theme=radical)
+<div align="center">
+
+![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -167,9 +150,8 @@ Turning strong computer science fundamentals into **secure, scalable, and high-p
 🐍 Python      ██████████████  30h  (46.2%)
 🚀 JavaScript  ████████░░░░░░  14h  (21.5%)
 📘 TypeScript  █████░░░░░░░░░  9h   (13.8%)
-🗃️ SQL         ███░░░░░░░░░░░  6h   (9.2%)
+🗃️ SQL-MongoDB  ███░░░░░░░░░░░  8h   (12.3%)
 🧩 DSA         ██░░░░░░░░░░░░  4h   (6.2%)
-📊 Power BI    █░░░░░░░░░░░░░  2h   (3.1%)
 
 🔥 Total Coding Time: 65h this week
 🎯 Main Focus: Full-Stack Development (MERN + Python/FastAPI)
