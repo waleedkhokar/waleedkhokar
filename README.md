@@ -22,7 +22,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=500&color=6A5ACD&vCenter=true&width=435&lines=MERN+Stack+Developer;Python+Developer;FastAPI+Developer;SQL+%26+MongoDB+Expert;Data+Analytics+Expert;Scalable+Web+Solutions"
     alt="Typing" />
 
-Meet a **Full-Stack Web Developer** specializing in building secure, scalable, and high-performance web applications using **modern technologies** — **MERN stack (Next.js, TypeScript, React, Node.js)** and **Python/FastAPI**. I design and develop complete solutions using **SQL** and **NoSQL (MongoDB)** databases, focusing on **fast performance, clean architecture, and exceptional user experience**. I also containerize applications using **Docker** for scalable and efficient deployments.
+  Meet a **Full-Stack Web Developer** specializing in building secure, scalable, and high-performance web applications using **modern technologies** — **MERN stack (Next.js, TypeScript, React, Node.js)** and **Python/FastAPI**. I design and develop complete solutions using **SQL** and **NoSQL (MongoDB)** databases, focusing on **fast performance, clean architecture, and exceptional user experience**. I also containerize applications using **Docker** for scalable and efficient deployments.
 
 ---
 
@@ -114,34 +114,32 @@ Meet a **Full-Stack Web Developer** specializing in building secure, scalable, a
 </div>
 
 
-## 📚 **Education & Current Focus**
-
 <table width="100%">
-<tr>
-<td width="100%" valign="top">
+    <tr>
+        <td width="100%" valign="top">
 
-### 🎓 **BS Computer Science** — Mohi-ud-Din Islamic University *(2022 – 2026)*
-Turning 4 years of computer science fundamentals into secure, scalable, and high-performance full-stack software — specializing in **MERN Stack + Python/FastAPI** and **Data Analytics & BI** — with AI-enhanced capabilities.
+### 🎓 **Bachelor's in Computer Science (BSCS)** —  *(2022 – 2026)*  
+Turning strong computer science fundamentals into **secure, scalable, and high-performance full-stack applications** — specializing in **MERN (Next.js, TypeScript)**, **Python/FastAPI**, and **Data Analytics & BI**, with practical **AI integration**.
 
 ---
 
 ### 🚀 **Current Focus**
 
 - 🔥 Advanced MERN Stack — Next.js, TypeScript
-- 🐍 Python / FastAPI — REST APIs & backend systems
-- 🧩 DSA C++ & System Design — LeetCode grind
-- 🤖 AI Integration — OpenAI API, LangChain
-- ☁️ DevOps — Docker, Kubernetes, AWS
-- 🔐 Cybersecurity & Networking (threat protection)
+- 🐍 Python / FastAPI — REST APIs, backend systems  
+- 🧩 DSA in C++ & System Design — problem-solving   
+- 🤖 AI Integration — OpenAI APIs, LangChain 
+- ☁️ DevOps — Docker, AWS (deployment & scaling)
 
 ---
 
 ### 🏆 **Achievements**
 
-| 🚀 10+ Projects | ⏱️ 1500+ Hours | 📜 Certified Devolper | 🌍 2 Internships |
-|:--------------:|:-------------:|:-----------------:|:--------------------:|
-</td>
-</tr>
+| 🚀 10+ Projects | ⏱️ 1500+ Hours | 📜 Certified Developer | 🌍 2 Internships |
+|:--------------:|:-------------:|:--------------------:|:----------------:|
+
+        </td>
+    </tr>
 </table>
 
 
@@ -162,7 +160,7 @@ Turning 4 years of computer science fundamentals into secure, scalable, and high
 </div>
 
 ### 📈 **Weekly Development Stats**
-f
+
 <div align="left">
 
 ```text
