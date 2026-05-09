@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=55&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&height=120&lines=WALEED+KHOKHAR;Full-Stack+Developer;Python+%2F+FastAPI;Data+Analytics+Expert"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=55&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&height=120&lines=WALEED+KHOKHAR;Full-Stack+Engineer;Python+%2F+FastAPI;Data+Analytics+Expert"
         alt="Typing SVG" />
 </p>
 
@@ -29,10 +29,10 @@
 ### 🎯 What I Do
 
 - Help **startups and brands** build modern, scalable, and high-performance web applications with the best user experience
-- Develop secure backends, REST APIs, and optimized databases using MERN, FastAPI, SQL & MongoDB
+- Develop secure backends, REST APIs, and optimized databases using MERN, FastAPI, PostgreSQL, SQL & MongoDB
 - 📊 Integrate **AI-powered features and data analytics** using Python, SQL, Excel & Power BI to build smart dashboards
 
-> 🌱 **Currently Leveling Up:** Full-Stack (MERN + Python/FastAPI) · AI Integration · AWS · DSA in C++
+> 🌱 **Currently Leveling Up:** .NET Core / C# - DSA (C++) - AI Integration
 
 ---
 
@@ -102,26 +102,24 @@
 
 </div>
 
-
-## 📊 **GitHub Analytics**
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=waleedkhokar&color=6A5ACD&style=for-the-badge" />
 </div>
-
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=waleedkhokar&theme=radical" width="70%" />
-</div>
-
-
 <table width="100%">
     <tr>
         <td width="100%" valign="top">
 
+
+
 ### 🏆 Achievements
 
-| BSCS Graduate | 🚀 10+ Projects | ⏱️ 1500+ Hours | 📜 Certified Developer | 🌍 2 Internships |
-|:-------------:|:--------------:|:--------------:|:----------------------:|:----------------:|
+| NodeJs-Python | 🌍 2 Internships | BSCS Graduate | 🚀 10+ Projects | 📜 Certified Developer | ⏱️ 1500+ Hours |
+|:-------------:|:--------------:|:--------------:|:-----------------:|:----------------:|:----------------:|
+
+</table>
+
+<!-- | NodeJs-Python | 🌍 2 Internships| BSCS Graduate | 🚀 10+ Projects |  | 📜 Certified Developer | ⏱️ 1500+ Hours |
+|:-------------:|:--------------:|:--------------:|:-----------------:|:----------------:|:----------------:| -->
 
 </table>
 
