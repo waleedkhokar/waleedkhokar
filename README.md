@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=55&duration=2000&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&height=120&lines=WALEED+KHOKHAR;Full-Stack+Engineer;Python+%2F+FastAPI;Data+Analytics+Expert"
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&weight=900&size=55&duration=2000&pause=1000&color=00FF94&center=true&vCenter=true&width=700&height=120&lines=WALEED+KHOKHAR;Full-Stack+Engineer;Next.js+%26+TypeScript;Python+%2F+FastAPI;Docker+%26+DevOps;Data+%26+AI+Expert"
         alt="Typing SVG" />
 </p>
 
@@ -10,7 +10,7 @@
 ## 🚀 About Me
 
 <div align="center">
-    <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" alt="Coding GIF" />
+    <img src="https://media.giphy.com/media/TWm1Hwn2kgkvhqlpVd/giphy.gif" width="380" alt="Coding GIF" />
 </div>
 
 <table width="100%">
@@ -19,30 +19,26 @@
 
 ### 👨‍💻 Waleed Khokhar
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=500&color=6A5ACD&vCenter=true&width=435&lines=MERN+Stack+Developer;Python+Developer;FastAPI+Developer;SQL+%26+MongoDB+Expert;Data+Analytics+Expert;Scalable+Web+Solutions"
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=500&color=00FF94&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%26+TypeScript;FastAPI+%26+Python;PostgreSQL+%26+Supabase;Docker+%26+DevOps;Data+Analytics+%26+AI;Scalable+Web+Solutions"
     alt="Typing" />
 
-  Meet a **Full-Stack Web Developer** specializing in building secure, scalable, and high-performance web applications using **modern technologies** — **MERN stack (Next.js, TypeScript, React, Node.js)** and **Python/FastAPI**. I design and develop complete solutions using **SQL** and **NoSQL (MongoDB)** databases, focusing on **fast performance, clean architecture, and exceptional user experience**. I also containerize applications using **Docker** for scalable and efficient deployments.
+**Full-Stack Web Developer** specializing in building secure, scalable, and high-performance web applications using **modern technologies** — **MERN stack (Next.js, TypeScript, React, Node.js)** and **Python/FastAPI**. I design and develop complete solutions using **SQL**, **PostgreSQL** and **NoSQL (MongoDB, Supabase)** databases, focusing on **fast performance, clean architecture, and exceptional user experience**. I also containerize applications using **Docker** for scalable and efficient deployments.
 
 ---
 
 ### 🎯 What I Do
 
 - Help **startups and brands** build modern, scalable, and high-performance web applications with the best user experience
-- Develop secure backends, REST APIs, and optimized databases using MERN, FastAPI, PostgreSQL, SQL & MongoDB
-- 📊 Integrate **AI-powered features and data analytics** using Python, SQL, Excel & Power BI to build smart dashboards
+- Develop secure backends, REST APIs & databases using **MERN, FastAPI, PostgreSQL, MongoDB & Supabase** (auth, real-time DB, storage, edge functions)
+- Integrate **AI-powered features & data analytics** using **Python, SQL, Excel & Power BI** to build smart dashboards
 
-> 🌱 **Currently Leveling Up:** .NET Core / C# - DSA (C++) - AI Integration
+> > 🌱 Currently **UI/UX Intern** @ **Gaotech** (Remote, USA) · Leveling Up: **.NET Core / C#** · **DSA (C++)** · **AI Integration**
 
 ---
 
 🚀 Problem-solver • Hard worker • Consistent builder • Lifelong learner
 
-        
-
 </table>
-
-
 
 ## 🛠️ Technical Stack
 
@@ -69,7 +65,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=339933&height=2&width=300" />
 
-`Node.js` `Express.js` `JavaScript` `Python` `FastAPI` `MongoDB` `PostgreSQL` `MySQL` `Redis`
+`Node.js` `Express.js` `JavaScript` `Python` `FastAPI` `MongoDB` `PostgreSQL` `SupaBase` `MySQL` `Redis`
 
 </td>
 </tr>
@@ -109,12 +105,8 @@
     <tr>
         <td width="100%" valign="top">
 
-
-
-### 🏆 Achievements
-
-| NodeJs-Python | 🌍 2 Internships | BSCS Graduate | 🚀 10+ Projects | 📜 Certified Developer | ⏱️ 1500+ Hours |
-|:-------------:|:--------------:|:--------------:|:-----------------:|:----------------:|:----------------:|
+| ⚡ Node · Python · Supabase  | 🌍 3 Internships | BSCS Graduate | 🚀 15+ Projects | 📜 Certified Developer | ⏱️ 1500+ Hours |
+| :-------------------------: | :--------------: | :-----------: | :-------------: | :--------------------: | :------------: |
 
 </table>
 
@@ -122,7 +114,6 @@
 |:-------------:|:--------------:|:--------------:|:-----------------:|:----------------:|:----------------:| -->
 
 </table>
-
 
 ## 📫 **Connect With Me**
 
@@ -145,12 +136,10 @@
 <div align="left">
 
 ```text
-🐍 Python      ██████████████  30h  (46.2%)
-🚀 JavaScript  ████████░░░░░░  14h  (21.5%)
-📘 TypeScript  █████░░░░░░░░░  9h   (13.8%)
-🗃️ SQL-MongoDB  ███░░░░░░░░░░░  8h   (12.3%)
-🧩 DSA         ██░░░░░░░░░░░░  4h   (6.2%)
+🎨 Frontend        ████████████░░  22h  (33%)
+⚙️ Backend         ██████████░░░░  20h  (30%)
+🗃️ Database        ████████░░░░░░  16h  (24%)
+🧩 DSA             █████░░░░░░░░░   8h  (13%)
 
-🔥 Total Coding Time: 65h this week
-🎯 Main Focus: Full-Stack Development (MERN + Python/FastAPI)
+🔥 66h/week 🎯 Full-Stack Development 📍 Islamabad, Pakistan
 ```
