@@ -105,7 +105,7 @@
     <tr>
         <td width="100%" valign="top">
 
-|  Node · Python  Supabase | 🌍 3 Internships | BSCS Graduate | 🚀 15+ Projects | 📜 Certified Developer |
+|  Node - Python - Supabase | 🌍 3 Internships | BSCS Graduate | 🚀 15+ Projects | 📜 Certified Developer |
 | :-------------------------: | :--------------: | :-----------: | :-------------: | :--------------------: |
 
 </table>
