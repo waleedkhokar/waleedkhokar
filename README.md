@@ -22,17 +22,18 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=500&color=00FF94&vCenter=true&width=435&lines=Full+Stack+Developer;Next.js+%26+TypeScript;FastAPI+%26+Python;PostgreSQL+%26+Supabase;Docker+%26+DevOps;Data+Analytics+%26+AI;Scalable+Web+Solutions"
     alt="Typing" />
 
-**Full-Stack Web Developer** specializing in building secure, scalable, and high-performance web applications using **modern technologies** — **MERN stack (Next.js, TypeScript, React, Node.js)** and **Python/FastAPI**. I design and develop complete solutions using **SQL**, **PostgreSQL** and **NoSQL (MongoDB, Supabase)** databases, focusing on **fast performance, clean architecture, and exceptional user experience**. I also containerize applications using **Docker** for scalable and efficient deployments.
+Full‑Stack Developer & AI Engineer — building both web apps and AI products with **MERN (Next.js, TypeScript, React, Node.js)** and **Python/FastAPI**. I work with **SQL, PostgreSQL, MongoDB, Supabase**, and containerize with **Docker**.
+
+**AI Engineer** — working with **LLMs, RAG pipelines, LangChain, AI Integration, Fine‑Tuning, and Prompt Engineering** to build intelligent, context‑aware systems.
 
 ---
 
 ### 🎯 What I Do
 
-- Help **startups and brands** build modern, scalable, and high-performance web applications with the best user experience
-- Develop secure backends, REST APIs & databases using **MERN, FastAPI, PostgreSQL, MongoDB & Supabase** (auth, real-time DB, storage, edge functions)
-- Integrate **AI-powered features & data analytics** using **Python, SQL, Excel & Power BI** to build smart dashboards
+- I turn your ideas into **Full‑Stack AI‑powered Web Apps** — modern, fast, and scalable.  
+- Helping you build a strong online presence with a website that actually stands out.
 
-> > 🌱 Currently **UI/UX Intern** @ **Gaotech** (Remote, USA) · Leveling Up: **.NET Core / C#** · **DSA (C++)** · **AI Integration**
+> 🌱 Currently: **Full-Stack + AI Engineer** @ Airtool · Leveling up: **DSA (C++) · AWS Cloud · LLMs & RAG · LangChain**
 
 ---
 
@@ -50,11 +51,11 @@
 
 ### 🌐 Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,redux,figma&perline=6" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,figma&perline=6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=61DAFB&height=2&width=300" />
 
-`React.js` `Next.js` `TypeScript` `Tailwind CSS` `Redux` `ShadCN UI` `Framer Motion` `Figma`
+`React.js` `Next.js` `TypeScript` `Tailwind CSS` `Figma` `Framer Motion`
 
 </td>
 <td align="center" width="50%">
@@ -65,7 +66,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=339933&height=2&width=300" />
 
-`Node.js` `Express.js` `JavaScript` `Python` `FastAPI` `MongoDB` `PostgreSQL` `SupaBase` `MySQL` `Redis`
+`Node.js` `Express.js` `JavaScript` `Python` `FastAPI` `MongoDB` `PostgreSQL` `SQL Server` `MySQL` `Redis` `Supabase` `Database Design`
 
 </td>
 </tr>
@@ -73,24 +74,24 @@
 <tr>
 <td align="center" width="50%">
 
-### ☁️ DevOps & Cloud
+### ☁️ DevOps & Tools
 
-<img src="https://skillicons.dev/icons?i=docker,aws,cpp,git,github,gitlab&perline=6" />
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,gitlab&perline=6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2496ED&height=2&width=300" />
 
-`Docker` `AWS` `Git` `GitHub` `GitLab` `Postman` `Cursor AI` `C++ (DSA)`
+`Docker` `AWS` `Git` `GitHub` `GitLab` `Postman` `Cursor AI` `GitHub Copilot` `C++ (DSA)`
 
 </td>
 <td align="center" width="50%">
 
-### 📊 Data & Analytics
+### 🤖 AI & LLM Engineering
 
-<img src="https://skillicons.dev/icons?i=py,mysql,postgres,sklearn,tensorflow,pytorch&perline=6" />
+<img src="https://skillicons.dev/icons?i=py,postgres,tensorflow,pytorch&perline=6" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=3776AB&height=2&width=300" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=300" />
 
-`Python` `Pandas` `Matplotlib` `SQL` `Excel` `Power BI` `Tableau` `Dashboards`
+`Python` `LLMs` `RAG Pipelines` `LangChain` `AI Integration` `Fine-Tuning` `Prompt Engineering` `Power BI`
 
 </td>
 </tr>
@@ -105,8 +106,8 @@
     <tr>
         <td width="100%" valign="top">
 
-|  Node - Python - Supabase | 🌍 3 Internships | BSCS Graduate | 🚀 15+ Projects | 📜 Certified Developer |
-| :-------------------------: | :--------------: | :-----------: | :-------------: | :--------------------: |
+| 💻 Full‑Stack + AI | 🎓 BSCS Graduate | 🚀 15+ Projects | 💼 1+ Year Exp + 3 Internships | ⚡ MERN · FastAPI · LLMs |
+| :----------------: | :--------------: | :-------------: | :---------------------------: | :---------------: |
 
 </table>
 
@@ -134,10 +135,10 @@
 <div align="left">
 
 ```text
-🎨 Frontend        ████████████░░  22h  (33%)
-⚙️ Backend         ██████████░░░░  20h  (30%)
-🗃️ Database        ████████░░░░░░  16h  (24%)
-🧩 DSA             █████░░░░░░░░░   8h  (13%)
+🎨 Frontend        ████████████░░  12h  (20%)
+⚙️ Backend         ██████████████  15h  (25%)
+🤖 AI/LLM          ████████████████ 18h  (30%)
+🗃️ Database        ██████████████  15h  (25%)
 
-🔥 66h/week 🎯 Full-Stack Development 📍 Islamabad, Pakistan
+🔥 60h/week 🎯 Full-Stack + AI Development 📍 Islamabad, Pakistan
 ```
