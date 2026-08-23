@@ -29,7 +29,7 @@ Full‑Stack Developer (Web + Mobile) & AI Engineer — building both web applic
 - I turn your ideas into **Full‑Stack AI‑powered Web Applications & Mobile Apps (iOS & Android)** — modern, fast, and scalable.  
 - Helping you build a strong online presence with a website or mobile product that actually stands out.
 
-> 🌱 Currently: **Enterprise Application Developer** · Leveling up: **DSA · Agentic AI & RAG** · Open for freelance projects & collaborations.
+> 🌱 Currently: **Enterprise Application Developer** · Leveling up: **DSA · Agentic AI & RAG** · Open for freelance projects.
 
 ---
 
