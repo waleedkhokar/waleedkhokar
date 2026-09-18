@@ -20,20 +20,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=500&color=00FF94&vCenter=true&width=450&lines=Full-Stack+Web+Developer;Mobile+App+Developer+(Android/iOS);AI+Engineer;Agentic+AI+Developer" alt="Typing" />
 
-Full‑Stack Developer (Web + Mobile) & AI Engineer — building both web applications & mobile apps with **Next.js, TypeScript, React, React Native, Node.js/Express, Python/FastAPI, Supabase, and Firebase**. Shipped 12+ production apps, from REST APIs to data-heavy platforms — deployed with **AWS (EC2, S3), Docker, and Vercel**. Works extensively with **SQL, SQL Server, PostgreSQL, and MongoDB**.
+### 👨‍💻 Full-Stack AI Engineer
 
-**AI Engineer** — I build with **Agentic AI, LLMs, RAG pipelines, LangChain, Generative AI, Fine-Tuning, and Prompt Engineering** — creating context-aware applications that solve real-world problems. I also build interactive data dashboards using **Python, SQL, and Power BI**.
+Full-Stack AI Engineer with **1+ year of experience** and **20+ projects delivered**, building scalable **Web Applications and Mobile Apps (Android & iOS)** with **AI-powered features**. I specialize in **Machine Learning, Deep Learning, Generative AI, LLMs, RAG, Agentic AI, and AI Agents**, building intelligent AI solutions and products that solve real-world problems.
 
 ### 🎯 What I Do
 
-- I turn your ideas into **Full‑Stack AI‑powered Web Applications & Mobile Apps (iOS & Android)** — modern, fast, and scalable.  
-- Helping you build a strong online presence with a website or mobile product that actually stands out.
+- 🚀 Build **Full-Stack Web Applications & Mobile Apps (iOS & Android)**.
+- 📊 **AI Engineering** using **Machine Learning, Deep Learning, LLMs, RAG, Agentic AI, and Generative AI**.
+- ☁️ Deploy applications using **Docker, AWS, Vercel, Git, GitHub, GitLab, and GitHub Actions (CI/CD)**.
+- 🛠️ Build with **Next.js, React, React Native, TypeScript, JavaScript, Node.js/Express, Python/FastAPI, Supabase, and Firebase**, using **PostgreSQL, SQL Server, MySQL, MongoDB, and Redis**.
 
-> 🌱 Currently: **Enterprise Application Developer** · Leveling up: **DSA · Agentic AI & RAG** · Open for freelance projects.
-
----
-
-🚀 Problem-solver • Hard worker • Consistent builder • Lifelong learner
 
 </td>
 </tr>
