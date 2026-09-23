@@ -20,7 +20,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&duration=1500&pause=500&color=00FF94&vCenter=true&width=450&lines=Full-Stack+Web+Developer;Mobile+App+Developer+(Android/iOS);AI+Engineer;Agentic+AI+Developer" alt="Typing" />
 
-### 👨‍💻 Full-Stack AI Engineer
+<p align="left">
+  <img src="https://img.shields.io/badge/Full--Stack%20AI%20Engineer-000000?style=for-the-badge&logo=OpenAI&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20%26%20Mobile%20App%20Developer-000000?style=for-the-badge&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DevOps%20%26%20Cloud%20Engineer-000000?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</p>
+
 
 Full-Stack AI Engineer with **1+ year of experience** and **20+ projects delivered**, building scalable **Web Applications and Mobile Apps (Android & iOS)** with **AI-powered features**. I specialize in **Machine Learning, Deep Learning, Generative AI, LLMs, RAG, Agentic AI, and AI Agents**, building intelligent AI solutions and products that solve real-world problems.
 
@@ -35,6 +40,7 @@ Full-Stack AI Engineer with **1+ year of experience** and **20+ projects deliver
 </td>
 </tr>
 </table>
+
 
 ## 🛠️ Technical Stack
 
@@ -75,21 +81,26 @@ Full-Stack AI Engineer with **1+ year of experience** and **20+ projects deliver
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=2496ED&height=2&width=300" />
 
-`AWS (EC2, S3)` `Docker` `Git` `GitHub` `GitLab` `Vercel` `Postman` `Cursor AI` `Copilot` `Claude Code` `C++ (DSA)`
+`AWS` `Docker` `Git` `GitHub` `GitHub Actions (CI/CD)` `GitLab` `Vercel` `Postman` `Cursor AI` `Copilot` `Claude Code`
 
 </td>
 <td align="center" width="50%">
 
-### 🤖 AI & LLM Engineering
+### 🤖 AI Engineering & LLMs
 
-<img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,postgres,powerbi&perline=6" />
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,matlab&perline=6" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=8B5CF6&height=2&width=300" />
 
-`Agentic AI` `LLMs` `RAG Pipelines` `LangChain` `Generative AI` `Fine-Tuning` `Prompt Engineering` `AI Integration` `Power BI`
+`Python` `Scikit-learn` `PyTorch` `Machine Learning` `Deep Learning` `NLP & Computer Vision` `Generative AI` `RAG Pipelines` `LangChain` `ChromaDB` `Agentic AI` `AI Automation`
 
 </td>
 </tr>
+</table>
+
+</div>
+
+
 </table>
 
 </div>
@@ -98,8 +109,16 @@ Full-Stack AI Engineer with **1+ year of experience** and **20+ projects deliver
     <img src="https://komarev.com/ghpvc/?username=waleedkhokar&color=6A5ACD&style=for-the-badge" />
 </div>
 
-| 💻 **Full-Stack Developer (Web + Mobile)** | 🎓 **BSCS Graduate** | 🚀 **15+ Projects** | 💼 **1+ Year Exp + 3 Internships** | ⚡ **AI Engineer** |
-| :----------------: | :--------------: | :-------------: | :---------------------------: | :---------------: |
+<p align="center">
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Year-informational?style=for-the-badge&logo=briefcase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Projects-20%2B-success?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Internships-3-blueviolet?style=for-the-badge&logo=googleclassroom&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weekly%20Coding-80%2B%20Hours-critical?style=for-the-badge&logo=clockify&logoColor=white"/>
+</p>
+
+
+
+
 
 ## 📫 Connect With Me
 
@@ -109,6 +128,8 @@ Full-Stack AI Engineer with **1+ year of experience** and **20+ projects deliver
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://waledkhokar.vercel.app/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:waleedkhokharbusiness@gmail.com)
 
+
+
 </div>
 
 <div align="center">
@@ -116,13 +137,3 @@ Full-Stack AI Engineer with **1+ year of experience** and **20+ projects deliver
 ![Snake animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
-
-### 📈 Weekly Development Stats
-
-```text
-🌐 Frontend & Mobile    ████████████████    16h  (20%)
-⚙️ Scalable Backend     ████████████████████ 20h  (26%)
-🤖 AI & Agentic AI      ██████████████████████████████ 30h  (38%)
-🧠 Improving Skills     ████████████        12h  (16%)
-
-🔥 78h/week 🎯 Full-Stack (Web & Mobile) + AI Engineering 📍 Rawalpindi, Pakistan
