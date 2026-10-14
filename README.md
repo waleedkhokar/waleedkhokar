@@ -97,19 +97,33 @@
   <img src="https://img.shields.io/badge/Internships-3-blueviolet?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Internships 3"/>
 </p>
 
-<table width="100%">
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%93%AB_CONNECT_WITH_ME-FF4B4B?style=for-the-badge&labelColor=2EA44F&logoColor=white" alt="Connect With Me"/>
+</p>
+
+<table align="center">
   <tr>
-    <td width="25%" align="left" valign="middle">
-      <h2>📫 Connect With Me</h2>
+    <td align="center">
+      <a href="https://linkedin.com/in/waleedkhokhar/">
+        <img src="./linkedin-circle.svg" width="45" alt="LinkedIn"/><br/>
+        <strong>LinkedIn</strong>
+      </a>
     </td>
-    <td width="50%" align="center" valign="middle">
-      <a href="https://linkedin.com/in/waleed-khokhar-8ba554261"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-      <a href="https://waledkhokar.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-      <a href="mailto:waleedkhokharbusiness@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+    <td align="center">
+      <a href="https://waledkhokar.vercel.app/">
+        <img src="./portfolio-circle.svg" width="45" alt="Website"/><br/>
+        <strong>Website</strong>
+      </a>
     </td>
-    <td width="25%"></td>
+    <td align="center">
+      <a href="mailto:waleedkhokharbusiness@gmail.com">
+        <img src="./gmail-circle.svg" width="45" alt="Email"/><br/>
+        <strong>Email</strong>
+      </a>
+    </td>
   </tr>
 </table>
+
 
 <div align="center">
 
